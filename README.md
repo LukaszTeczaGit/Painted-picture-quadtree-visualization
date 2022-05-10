@@ -1,5 +1,5 @@
 # Painted-picture-quadtree-visualization
-This program allows you to paint a picture and then by clicking appropriate button visualize how does quadtree algorithm looks like.
+This program allows you to paint a picture and then by clicking "Quadtree that" button visualize how does quadtree algorithm looks like.
 
 #1:
 ![image](https://user-images.githubusercontent.com/77443304/167023061-04bab00e-dd5a-40e0-b8e6-f71c58bbc694.png)
